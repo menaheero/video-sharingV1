@@ -1,0 +1,14 @@
+
+/.git
+/env
+/static
+/media
+/media/images
+/media/images/gallery
+/media/images/gallery/thumbs
+/media/images/gallery/thumbs/cache
+/__pycache__/
+/migrations/
+*.pyc
+
+**/migrations
